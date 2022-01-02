@@ -1,4 +1,4 @@
-# README
+# 果壳儿看看
 
 + use  ruby 2.5.8   rails 5.1.7 
 + to run the demo
